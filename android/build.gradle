@@ -30,8 +30,8 @@ buildscript {
     }
 
     dependencies {
+        classpath 'com.google.gms:google-services:4.2.0' // new change for aic
         if (isPlay) {
-            classpath 'com.google.gms:google-services:4.2.0'
             classpath 'com.google.firebase:firebase-crashlytics-gradle:2.0.0'
             classpath 'com.bugsnag:bugsnag-android-gradle-plugin:4.+'
         }

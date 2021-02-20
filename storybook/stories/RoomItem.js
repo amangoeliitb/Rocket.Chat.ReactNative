@@ -7,7 +7,7 @@ import RoomItemComponent from '../../app/presentation/RoomItem/RoomItem';
 import { longText } from '../utils';
 import StoriesSeparator from './StoriesSeparator';
 
-const baseUrl = 'https://open.rocket.chat';
+const baseUrl = 'https://chat.allincall.in';
 const { width } = Dimensions.get('window');
 let _theme = 'light';
 const lastMessage = {

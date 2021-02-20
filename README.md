@@ -24,7 +24,7 @@ Check [our docs](https://docs.rocket.chat/installation/mobile-and-desktop-apps#m
 
 [Github Issues](https://github.com/RocketChat/Rocket.Chat.ReactNative/issues) are used to track todos, bugs, feature requests, and more.
 
-Also check the [#react-native](https://open.rocket.chat/channel/react-native) community on [open.rocket.chat](https://open.rocket.chat). We'd like to help.
+Also check the [#react-native](https://chat.allincall.in/channel/react-native) community on [open.rocket.chat](https://chat.allincall.in). We'd like to help.
 
 ## Contributing
 

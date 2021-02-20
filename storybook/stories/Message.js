@@ -27,7 +27,7 @@ const author = {
 	_id: 'userid',
 	username: 'diego.mello'
 };
-const baseUrl = 'https://open.rocket.chat';
+const baseUrl = 'https://chat.allincall.in';
 const date = new Date(2017, 10, 10, 10);
 const longText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 

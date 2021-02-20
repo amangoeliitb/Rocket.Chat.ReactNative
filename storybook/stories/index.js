@@ -21,7 +21,7 @@ import MessageContext from '../../app/containers/message/Context';
 import { themes } from '../../app/constants/colors';
 
 // MessageProvider
-const baseUrl = 'https://open.rocket.chat';
+const baseUrl = 'https://chat.allincall.in';
 const user = {
 	id: '',
 	username: 'diego.mello',
@@ -39,11 +39,11 @@ const reducers = combineReducers({
 		}
 	}),
 	server: () => ({
-		server: 'https://open.rocket.chat',
+		server: 'https://chat.allincall.in',
 		version: '3.7.0'
 	}),
 	share: () => ({
-		server: 'https://open.rocket.chat',
+		server: 'https://chat.allincall.in',
 		version: '3.7.0',
 		settings: {}
 	}),

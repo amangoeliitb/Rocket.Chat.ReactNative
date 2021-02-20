@@ -1,6 +1,6 @@
 /*
 	Extract hostname from url
-	url = 'https://open.rocket.chat/method'
+	url = 'https://chat.allincall.in/method'
 	hostname = 'open.rocket.chat'
 */
 export const extractHostname = (url) => {

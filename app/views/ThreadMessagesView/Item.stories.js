@@ -15,7 +15,7 @@ const author = {
 	username: 'rocket.cat',
 	name: 'Rocket Cat'
 };
-const baseUrl = 'https://open.rocket.chat';
+const baseUrl = 'https://chat.allincall.in';
 const date = new Date(2020, 10, 10, 10);
 const longText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 const defaultItem = {
@@ -57,11 +57,11 @@ const reducers = combineReducers({
 		}
 	}),
 	server: () => ({
-		server: 'https://open.rocket.chat',
+		server: 'https://chat.allincall.in',
 		version: '3.7.0'
 	}),
 	share: () => ({
-		server: 'https://open.rocket.chat',
+		server: 'https://chat.allincall.in',
 		version: '3.7.0'
 	}),
 	settings: () => ({

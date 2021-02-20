@@ -378,7 +378,7 @@ class Markdown extends PureComponent {
 
 		let m = formatText(msg);
 
-		// Ex: '[ ](https://open.rocket.chat/group/test?msg=abcdef)  Test'
+		// Ex: '[ ](https://chat.allincall.in/group/test?msg=abcdef)  Test'
 		// Return: 'Test'
 		m = m.replace(/^\[([\s]]*)\]\(([^)]*)\)\s/, '').trim();
 

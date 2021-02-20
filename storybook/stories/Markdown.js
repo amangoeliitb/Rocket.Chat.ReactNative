@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
 	}
 });
 
-const baseUrl = 'https://open.rocket.chat';
+const baseUrl = 'https://chat.allincall.in';
 const longText = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.';
 const lineBreakText = `a
 b

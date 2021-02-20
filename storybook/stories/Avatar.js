@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
 	}
 });
 
-const server = 'https://open.rocket.chat';
+const server = 'https://chat.allincall.in';
 
 const Separator = ({ title, theme }) => <StoriesSeparator title={title} theme={theme} />;
 Separator.propTypes = {
